@@ -15,6 +15,6 @@ I'm a Frontend Engineer who is passionate about making contributing to open-sour
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=iruojefaith&show_icons=true&include_all_commits=true&hide_border=true" alt="Iruoje's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iruojefaith&langs_count=8&layout=compact&hide_border=true" alt="iruoje's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=iruojefaith&show_icons=true&include_all_commits=true&hide_border=true" alt="Iruoje's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iruojefaith&langs_count=8&layout=compact&hide_border=true" alt="iruoje's GitHub stats"/> |
 | ------------- | ------------- |
 

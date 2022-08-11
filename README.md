@@ -11,7 +11,7 @@ I'm a Frontend Engineer who is passionate about making contributing to open-sour
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Front Engineer (Intern or Junior level).
-- 📫 You can [view my resume](https://drive.google.com/file/d/11gaN0iibAwKhPbv0XGAc_pebwEuR24DS/view?usp=sharing) and contact me by emailing faithiruoje@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/11gaN0iibAwKhPbv0XGAc_pebwEuR24DS/view?usp=sharing) and contact me by emailing faithiruoje@gmail.com
 
 ---
 

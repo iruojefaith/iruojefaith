@@ -8,12 +8,9 @@ I'm a Frontend Engineer who is passionate about contributing to open-source proj
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Front Engineer (Intern or Junior level).
-- 📫 You can [view my resume](https://drive.google.com/file/d/11gaN0iibAwKhPbv0XGAc_pebwEuR24DS/view?usp=sharing) and contact me by emailing faithiruoje@gmail.com
+- 💡 Fun fact: Frontend Engineer.
+- 😊 Available to work on open source projects.
 
----
 ### :hammer_and_wrench: Languages and Tools :
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
